@@ -16,9 +16,9 @@ public class ButtonManager : MonoBehaviour
         Application.Quit();
     }
 
-    public void LoadGameBtn(string loadGameLevel)
+    public void LoadGameBtn(int loadGameLevel)
     {
-        
+        SceneManager.LoadScene(loadGameLevel);
     }
 
 }

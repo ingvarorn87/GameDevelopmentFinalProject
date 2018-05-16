@@ -11,3 +11,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HorrorScene.unity
     guid: ee870664533a11544965e4297b383ef0
+  - enabled: 1
+    path: Assets/Scenes/LoadGameScene.unity
+    guid: 915f02a41ba2e714bbc13ecc6c0c90fc
